@@ -12,3 +12,4 @@ match codigo:
         print("Erro no servido: Nosso sistema esta instável no momento.")
     case _:
         print("Código HTTP {codigo_status} desconhecido.")
+        print("teste e push pelo vscode")
